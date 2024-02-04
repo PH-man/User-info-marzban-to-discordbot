@@ -6,7 +6,7 @@ Script to collect user data from your Marzban panel and discord-bot send it to U
 
 - #### customizable prefix 
 - #### customizable commands
-- #### collect users info from marzban panel and sent to requested user
+- #### collect users info from marzban panel and sent it to User who requested
 
 
 ## Requirment
