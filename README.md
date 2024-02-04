@@ -29,7 +29,7 @@ to install python
 then to clone script
 
 ```bash 
-sudo git clone  https://github.com/PH-man/Userinfo-marzban-to-discordbot.git
+sudo git clone  https://github.com/PH-man/User-info-marzban-to-discordbot.git
 
 ```
 ```bash
@@ -68,7 +68,7 @@ install python from official [Python site](https://www.python.org/downloads/).
 
 then open cmd type 
 ```bash 
-git clone https://github.com/PH-man/Userinfo-marzban-to-discordbot.git
+git clone https://github.com/PH-man/User-info-marzban-to-discordbot.git
 ```
 unzip downloaded file and navigate to it
 
