@@ -1,0 +1,10 @@
+TOKEN = 'Your discord bot token'  # Your bot token
+REPORT_CHANNEL_ID =  (Your text channel id)# Replace with your actual log channel ID report of usage of your ad
+LOG_CHANNEL_ID =   (Your text channel id )# Replace with your actual log channel ID report of server usages 
+LOGIN_URL = "(Replace your url and port with https://)/api/admin/token"  # Login URL to get token
+SECURE_URL = "(replace your url and port with https://)/api/admin"  # Login with your token
+SYSTEM_URL = "(replace your url and port with https://)/api/system"  # Login URI to see account details
+USERNAME = '(your username of panel)'  # Your username for marzban
+PASSWORD = '(your password of panel)'  # Your password for marzban
+API_BASE_URL = '(replace your url and port with https://)/api/user/'  # Replace with your actual url
+MY_AD = '(your links and your advertizements)'
