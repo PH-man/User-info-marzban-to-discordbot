@@ -29,7 +29,7 @@ to install python
 then to clone script
 
 ```bash 
-sudo git clone Userinfo-marzban-to-discordbot-main.zip
+sudo git clone  https://github.com/PH-man/Userinfo-marzban-to-discordbot.git
 
 ```
 ```bash
@@ -68,7 +68,7 @@ install python from official [Python site](https://www.python.org/downloads/).
 
 then open cmd type 
 ```bash 
-git clone Userinfo-marzban-to-discordbot-main.zip
+git clone https://github.com/PH-man/Userinfo-marzban-to-discordbot.git
 ```
 unzip downloaded file and navigate to it
 
@@ -80,6 +80,12 @@ then to run script
 ```bash
 python index.py
 ```
+## how to config
+
+in config.py file replace your real panel url and discord Channel id in  Specified place 
+
+like LOGIN_URL = "(Replace your url and port with https://)/api/admin/token" only replace your url and port like this LOGIN_URL = "sarab.google.com:443/api/admin/token"
+and other Parameters
 ## 🔗 Link for contacting with me
 #### if you found a bug or suggestion to improve a code I will be happy to contact with me
 [![portfolio](https://patrolavia.github.io/telegram-badge/chat.png)](https://ph_man.t.me)
